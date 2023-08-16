@@ -1,0 +1,17 @@
+game human comp3
+special
++ k h8
++ K a1
++ Q g1
++ R f1
++ q b8
++ r c8
+done
+move g1 d4
+move
+move d4 e5
+move
+move f1 g1
+move
+move e5 g7
+resign

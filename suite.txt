@@ -1,0 +1,16 @@
+bonus
+c1Vc1
+c1Vc4
+c2Vc3
+default
+foolCheck
+grandMaster
+human
+hVc3
+inCheck
+kingCastle
+noCastle
+pawn
+queenCastle
+removeKing
+setup

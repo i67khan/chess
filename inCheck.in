@@ -1,0 +1,10 @@
+game human human
+default
+move e2 e4
+move e7 e5
+move f1 c4
+move g8 f6
+move d1 f3
+move f6 e4
+move f3 f7
+resign
